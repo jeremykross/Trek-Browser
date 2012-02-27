@@ -1,0 +1,24 @@
+<RCC>
+<qresource>
+	<file>icons/back.png</file>
+	<file>icons/forward.png</file>
+	<file>icons/refresh.png</file>
+	<file>icons/stop.png</file>
+	<file>icons/pageoptions.png</file>
+	<file>icons/tools.png</file>
+	<file>icons/users.png</file>
+	<file>icons/download.png</file>
+	<file>icons/favorites.png</file>
+	<file>icons/favoritesempty.png</file>
+	<file>icons/history.png</file>
+	<file>icons/questionmark.jpg</file>
+	<file>icons/pluto_icon.png</file>
+	<file>icons/friends.png</file>
+	<file>icons/catalog.png</file>
+	<file>icons/cap.png</file>
+	<file>icons/crown.png</file>
+	<file>icons/safari.png</file>
+	<file>js/javascript.js</file>
+	<file>js/searchForNode.js</file>
+</qresource>
+</RCC>
